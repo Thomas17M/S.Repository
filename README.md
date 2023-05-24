@@ -1,5 +1,5 @@
 # S.Repository
-Human to Dog Years
+JavaScript Human to Dog Years
 
 // This variable will compare my age and my dog age//
 let myAge = 18;
